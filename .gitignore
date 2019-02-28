@@ -8,3 +8,5 @@ t10k-labels-idx1-ubyte
 .idea/fashion_analytics.iml
 .idea/encodings.xml
 .idea/vcs.xml
+fashionMNIST-logs/
+.ipynb_checkpoints/TensorBoardVisualiser-checkpoint.ipynb
